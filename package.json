@@ -27,11 +27,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@ethercorps/svelte-h2j": "^5.0.0-next.2",
-		"@ethercorps/sveltekit-og": "^4.0.0-next.1",
-		"@resvg/resvg-js": "^2.6.2",
-		"csstree": "^0.0.3",
-		"estree-walker": "^3.0.3",
-		"satori": "^0.10.13"
+		"@ethercorps/sveltekit-og": "^4.0.0-next.1"
 	}
 }
