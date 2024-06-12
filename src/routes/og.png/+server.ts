@@ -1,4 +1,4 @@
-import { RequestHandler } from './$types'
+import { type RequestHandler } from './$types'
 import { ImageResponse } from '@ethercorps/sveltekit-og'
 
 export const GET = (async () => {

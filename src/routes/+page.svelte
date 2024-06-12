@@ -1,4 +1,3 @@
-
 OG Image:
 
-<img src="/og.png"/>
+<img src="/og.png" alt="OpenGraph" />
