@@ -7,5 +7,5 @@ export const GET = (async () => {
       <p>Hello world</p>
     </div>
   `
-	return new ImageResponse(html)
+	return new ImageResponse(html, {}, { props: {} })
 }) satisfies RequestHandler
